@@ -1,4 +1,4 @@
-MASTER_PWD = "butterscotch_sambhar" 
+MASTER_PWD = "put ur master pwd" 
 SECRET_KEY_PATH = "D:\MainFolders\programcodestuff\python\passwd_manager\secret.key"  
 
 def load_key():
